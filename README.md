@@ -81,11 +81,7 @@ Machine Learning • Feature Engineering • Predictive Analytics • Model Eval
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">AI Engineering & Machine Learning</h3>
 
-<p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360"/>
-</p>
 
 <p align="center">
 Python • TensorFlow • PyTorch • Scikit-Learn • Pandas • NumPy • OpenCV
@@ -93,11 +89,7 @@ Python • TensorFlow • PyTorch • Scikit-Learn • Pandas • NumPy • Open
 
 ---
 
-<h3 align="center">LLM Engineering</h3>
 
-<p align="center">
-<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="360"/>
-</p>
 
 <p align="center">
 OpenAI • Claude • MCP • Prompt Engineering • AI Agents • RAG • Semantic Search
@@ -105,11 +97,7 @@ OpenAI • Claude • MCP • Prompt Engineering • AI Agents • RAG • Seman
 
 ---
 
-<h3 align="center">Backend & Cloud</h3>
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="360"/>
-</p>
 
 <p align="center">
 FastAPI • Flask • PostgreSQL • SQLAlchemy • Docker • AWS • Linux
