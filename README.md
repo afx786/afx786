@@ -44,7 +44,7 @@ Semantic Search, Workflow Automation, Backend Engineering, and Full-Stack AI Pro
 LLM Applications • ONDC Buyer App • Prompt Engineering • Semantic Search • AI Automation • AWS • FastAPI
 <br/><br/>
 
-<b>AI & Data Science Intern — FNF</b><br/>
+<b>Research & Development Intern — FNF Coliving</b><br/>
 Machine Learning • Feature Engineering • Predictive Analytics • Model Evaluation • Data Visualization
 
 </p>
