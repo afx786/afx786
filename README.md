@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer • Data Scientist • LLM Systems • Machine Learning</h3>
 
 <p align="center">
-Building intelligent systems using Machine Learning, Large Language Models, and Data.
+Building intelligent systems using Machine Learning, Large Language Models, Product and Data.
 </p>
 
 <p align="center">
