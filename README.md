@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aaqib Abdullah</h1>
+<h1 align="center">Hi, I'm Aaqib</h1>
 
 <h3 align="center">AI Engineer • Data Scientist • LLM Systems • Machine Learning</h3>
 
