@@ -92,7 +92,7 @@ Python • TensorFlow • PyTorch • Scikit-Learn • Pandas • NumPy • Open
 
 
 <p align="center">
-OpenAI • Claude • MCP • Prompt Engineering • AI Agents • RAG • Semantic Search
+OpenAI • Claude • MCP • Prompt Engineering • AI Agents • Semantic Search
 </p>
 
 ---
